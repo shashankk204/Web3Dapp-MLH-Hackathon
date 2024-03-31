@@ -33,7 +33,7 @@ Follow these steps to set up and run DWhatsApp on your local environment.
 - MetaMask
 
 ### Installation
-1. Clone the repository: `https://github.com/shashankk204/dwhatsapp_frontend.git`
+1. Clone the repository: `https://github.com/shashankk204/Web3Dapp-MLH-Hackathon.git`
 2. Install dependencies: `npm install`
 3. Run the application: `npm run dev`
 
@@ -52,6 +52,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 - Thanks to the Ethereum community for providing a robust blockchain platform.
+- Thanks to the organizer of Web3Dapps for providing the opportunity to make this app.
+
+## About
+This project was made during the Web3Dapps Hackathon organized by MLH.
 
 ## Contact
 For any inquiries or support, contact the owner at [Shashank Kumar](mailto:fastandcurious56@gmail.com).
